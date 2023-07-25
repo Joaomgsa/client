@@ -2,7 +2,7 @@
 
 ### Api Rest que retorna informações de clientes 
 
-## Ações
+## Ações: 
 Busca de clientes por Id:
  <code> GET /clients/1 </code>
 
@@ -32,7 +32,7 @@ Inserção de novo cliente:
 Deleção de cliente 
 <code> DELETE /clients/1 </code>
 
-## Checklist
+## Checklist - Testes Automatizados
 #### 1 - [ ] Busca por id retorna cliente existente
 #### 2 - [ ] Busca por id retorna 404 para cliente inexistente
 #### 3 - [ ] Busca paginada retorna listagem paginada corretamente
@@ -43,3 +43,4 @@ Deleção de cliente
 #### 8 - [ ] Atualização de cliente retorna 422 e mensagens customizadas com dados inválidos
 #### 9 - [ ] Deleção de cliente existente
 #### 10 -[ ] Deleção de cliente retorna 404 para cliente inexistente
+
