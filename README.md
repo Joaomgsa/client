@@ -32,10 +32,10 @@ Inserção de novo cliente:
 Deleção de cliente 
 <code> DELETE /clients/1 </code>
 
-## Checklist - Testes Automatizados
-#### 1 - [ ] Busca por id retorna cliente existente
-#### 2 - [ ] Busca por id retorna 404 para cliente inexistente
-#### 3 - [ ] Busca paginada retorna listagem paginada corretamente
+## Checklist - Testes Realizados
+#### 1 - [X] Busca por id retorna cliente existente
+#### 2 - [X] Busca por id retorna 404 para cliente inexistente
+#### 3 - [X] Busca paginada retorna listagem paginada corretamente
 #### 4 - [ ] Inserção de cliente insere cliente com dados válidos
 #### 5 - [ ] Inserção de cliente retorna 422 e mensagens customizadas com dados inválidos
 #### 6 - [ ] Atualização de cliente com dados válidos 
