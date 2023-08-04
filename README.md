@@ -19,7 +19,7 @@ Inserção de novo cliente:
   "children": 2
  }</code>
 
-Inserção de novo cliente:
+Atualização de um cliente:
 <code> PUT /clients/1
 {
 "name": "Luis Suarez",
